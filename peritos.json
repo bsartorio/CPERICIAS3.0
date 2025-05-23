@@ -1,0 +1,37 @@
+{
+    "teste 123": {
+        "nome": "teste 123",
+        "cpf": "093.557.459-07",
+        "telefone": "44991053138",
+        "profissao": "lover",
+        "data_cadastro": "2025-05-23"
+    },
+    "BEATRIZ ESTEFANI SARTORIO": {
+        "nome": "BEATRIZ ESTEFANI SARTORIO",
+        "cpf": "093.557.459-06",
+        "telefone": "44991053138",
+        "profissao": "ADVOGADA",
+        "data_cadastro": "2025-05-23"
+    },
+    "teste larusi": {
+        "nome": "teste larusi",
+        "cpf": "085.448.578-98",
+        "telefone": "44991053558",
+        "profissao": "medico",
+        "data_cadastro": "2025-05-23"
+    },
+    "Bernardo Piazzalunga Balbino": {
+        "nome": "Bernardo Piazzalunga Balbino",
+        "cpf": "076.864.819-05",
+        "telefone": "4396643336",
+        "profissao": "medico",
+        "data_cadastro": "2025-05-23"
+    },
+    "Gabriell G Manzatti": {
+        "nome": "Gabriell G Manzatti",
+        "cpf": "091.070.829-08",
+        "telefone": "4499378241",
+        "profissao": "engenheiro mecanico",
+        "data_cadastro": "2025-05-23"
+    }
+}
